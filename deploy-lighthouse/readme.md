@@ -1,5 +1,5 @@
 | Group Name  | Role Id                        | Name | Description |
-| ----------- | ------------------------------ | -----|
+| ----------- | ------------------------------ | -----|------------- |
 | MANNAI-SOC Engineers | 51d6186e-6489-4900-b93f-92e23144cca5      | Microsoft Sentinel Playbook Operator ||
 | MANNAI-SOC Engineers | 3e150937-b8fe-4cfb-8069-0eaf05ecd056  | Microsoft Sentinel Responder |Can, in addition to the above, manage incidents (assign, dismiss, etc.)|
 | MANNAI-SOC Engineers | ab8e14d6-4a74-4a29-9ba8-549422addade | Microsoft Sentinel Contributor|Can, in addition to the above, create and edit workbooks, analytics rules, and other Microsoft Sentinel resources.|
