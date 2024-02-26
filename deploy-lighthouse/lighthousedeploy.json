@@ -61,6 +61,11 @@
     "principalIdDisplayName": "Mannai-Lighthouse-Admin",
     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46"
    },
+   { 
+    "principalId": "d91421dd-df04-4d84-a9a5-2bb0eff004b1",    
+    "principalIdDisplayName": "Mannai-Lighthouse-Admin",
+    "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e"	
+   },
    {
      "principalId": "d24f459d-fbfb-48d5-beb7-4c816712636f",
      "roleDefinitionId": "f4c81013-99ee-4d62-a7ee-b3f1f648599a",
